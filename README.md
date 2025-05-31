@@ -1,6 +1,3 @@
-Sure! Here's a professional and clear **README.md** for your HTML/CSS/JS project:
-
----
 
 # 🌍 Level Travel Website Template
 
