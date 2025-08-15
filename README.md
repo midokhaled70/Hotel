@@ -45,7 +45,7 @@ project/
     └── (if included: custom JS scripts)
 ```
 
-
+##Author
 
 ## 💡 How to Use
 
