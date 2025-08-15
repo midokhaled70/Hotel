@@ -46,7 +46,7 @@ project/
 ```
 
 ##Author
---Ahmed Kha
+--Ahmed Khal
 ## 💡 How to Use
 
 1. Clone or download this repository.
